@@ -1,0 +1,23 @@
+{
+  "links": {
+    "home": "Home",
+    "about": "About",
+    "projects": "Projects",
+    "contact": "Contact"
+  },
+  "home": {
+    "title": "Hi, I'm Pawan Kumar",
+    "subtitle": "A software engineer in India."
+  },
+  "about": {
+    "title": "About Me"
+  },
+  "projects": {
+    "title": "My Projects",
+    "introduction": "Some of my projects can be found on <a href='https://github.com/iampawan31' target='_blank'>GitHub</a>."
+  },
+  "contact": {
+    "title": "Contact Me",
+    "introduction": "You can follow me on Twitter: <a href='https://twitter.com/iampawan31' target='_blank'>@iampawan31</a>"
+  }
+}

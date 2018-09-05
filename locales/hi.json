@@ -1,0 +1,23 @@
+{
+  "links": {
+    "home": "होम",
+    "about": "के बारे में",
+    "projects": "परियोजनाओं",
+    "contact": "संपर्क करें"
+  },
+  "home": {
+    "title": "हाय, मैं पवन कुमार हूं",
+    "subtitle": "भारत में एक सॉफ्टवेयर इंजीनियर।"
+  },
+  "about": {
+    "title": "के बारे में"
+  },
+  "projects": {
+    "title": "मेरी परियोजनाएं",
+    "introduction": "मेरी कुछ परियोजनाएं <a href='https://github.com/iampawan31' target='_blank'> गिटहब </a> पर मिल सकती हैं।"
+  },
+  "contact": {
+    "title": "मुझसे संपर्क करो",
+    "introduction": "आप ट्विटर पर मेरा अनुसरण कर सकते हैं: <a href='https://twitter.com/iampawan31' target='_blank'> @allenhwkim </a>"
+  }
+}
